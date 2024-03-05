@@ -1,7 +1,6 @@
 version: 2
 
 sources:
- 
   - name: gz_raw_data
     schema: raw
     tables:
@@ -10,4 +9,4 @@ sources:
       - name: raw_gz_product
         identifier: product
       - name: raw_gz_ship
-        identifier: ship 
+        identifier: ship
