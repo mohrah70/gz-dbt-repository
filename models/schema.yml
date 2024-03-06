@@ -49,4 +49,14 @@ sources:
           - name: logcost
             description: the expense of logging
           - name: shipcost
-            description: the expense of operations and logistics
+            description: the expense of operations and logistics 
+      - name: adwords
+        identifier: raw_gz_adwords
+        description: shipping information about each order
+      - name : bing  
+        identifier : raw_gz_bing 
+      - name : criteo  
+        identifier : raw_gz_criteo 
+      - name :  facebook
+        identifier : raw_gz_facebook
+        
